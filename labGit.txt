@@ -1,1 +1,3 @@
-Another version o f the not working lab
+Another version of the not working lab.
+This time it is working well.
+
